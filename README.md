@@ -12,7 +12,7 @@
 - ⚡ Currently diving deep into **DSA (C++/Java)** to sharpen problem-solving  
 - 🌍 Enjoy building **full-stack projects** that solve real-world problems  
 - 🤝 Believe in **open-source, collaboration, and knowledge-sharing**  
-- 🛠️ Curious by nature — I love to **experiment, learn, and iterate**  
+- 🛠️I love to **experiment, learn, and iterate**  
 
 ---
 
