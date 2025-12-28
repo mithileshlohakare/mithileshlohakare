@@ -1,26 +1,26 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F7DF1E&width=435&lines=Hi%2C+I'm+Mithilesh+Lohakare+👋;I'm+a+Web+Developer;I+love+DSA%26" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F7DF1E&width=520&lines=Hi%2C+I'm+Mithilesh+Lohakare;Frontend+Web+Developer;DSA+%7C+C%2B%2B+%26+Java" alt="Typing Animation">
 </div>
 
 <p align="center">
-  🚀 Computer Technology Student | 💻 Web Developer | 🔥 Lifelong Learner
+  Computer Technology Student | Frontend Web Developer | DSA Practice
 </p>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-- 🎓 **3rd Year B.Tech Student** in Computer Technology (YCCE)
-- 💡 **Currently Focused:** Deep diving into **DSA (C++/Java)** to master problem-solving.
-- 🌐 **My Mission:** Building **full-stack projects** that offer real-world solutions.
-- 🤝 **Core Belief:** Passionate about **open-source, collaboration, and continuous knowledge-sharing**.
-- ⭐ **Next Goals:** Strengthen **backend skills**, build a **personal portfolio**, and contribute more to **OSS**.
+- Computer Technology student at **YCCE**
+- Focused on **frontend web development**
+- Regularly practicing **DSA using C++ and Java**
+- Prefer learning by **building UI and solving problems**
+- Keeping this profile simple and accurate
 
 ---
 
-## 🛠️ My Toolkit
+## Tech Stack
 
-**Languages & Frameworks:**
+**Programming Languages**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -28,45 +28,50 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**Web & Tools:**
+**Frontend & Tools**
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Status
+## GitHub Stats
 
 <a href="https://github.com/mithileshlohakare">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithileshlohakare&theme=dark" height="170" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithileshlohakare&theme=dark" height="170" />
 </a>
 <a href="https://github.com/mithileshlohakare">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithileshlohakare&theme=dark" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithileshlohakare&theme=dark" height="170" />
 </a>
 
 </div>
 
 ---
 
-## 💻 DSA Progress
+## DSA Practice
 
-Practicing regularly on LeetCode and CodeChef to sharpen problem-solving skills.
+- Solving problems on **LeetCode** and **CodeChef**
+- Focus on logic, edge cases, and clean solutions
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mithileshlohakare2?theme=dark&ext=heatmap&font=JetBrains%20Mono" />
-</p>
+<a href="https://leetcode.com/u/mithileshlohakare2/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+
 
 ---
 
 <div align="center">
-  
-## 🌐 Let’s Connect!
+
+## Connect
 
 <a href="https://www.linkedin.com/in/mithileshlohakare" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -80,14 +85,9 @@ Practicing regularly on LeetCode and CodeChef to sharpen problem-solving skills.
 <a href="https://www.codechef.com/users/mithilesh47" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
-<a href="https://github.com/mithileshlohakare" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <br><br>
 
-⭐ *"Code. Learn. Improve. Repeat."*
-  
-</div>
+Code. Practice. Improve.
 
-<br>
+</div>
